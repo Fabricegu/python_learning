@@ -21,6 +21,7 @@ print("emplacement mémoire de prénom2: ", id(prenom2))
 
 prenom1 = prenom2
 print(prenom1)
+print("emplacement mémoire de prénom1: ", id(prenom1))
 
 # objet mutable
 # les addresse mémoire ne change pas
